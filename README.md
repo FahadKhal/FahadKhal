@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS,React,Redux,ReduxToolkit,RtkQuery,Tailwind CSS**
 
-- 📫 How to reach me **fahadkhalidf90@gmail.com**
+- 📫 How to reach me **fahadkhalidf90@gmail.com ,https://www.linkedin.com/in/fahad-khalid-7aba7a241**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
