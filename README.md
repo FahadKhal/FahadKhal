@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fahad Khalid</h1>
-<h3 align="center">Frontend developer | Javascript | Tailwind |Material UI | REACT |RTK Query</h3>
+<h3 align="center">Web developer | Javascript | Tailwind |Material UI | REACT |RTK Query | Fire Base |Strapi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadkhal&label=Profile%20views&color=0e75b6&style=flat" alt="fahadkhal" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **FrontEnd React Development**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Node Js**
 
 - 👯 I’m looking to collaborate on **FrontEnd React Projects**
 
 - 🤝 I’m looking for help with **TypeScript**
 
-- 💬 Ask me about **HTML,CSS,JS,React,Redux,ReduxToolkit,RtkQuery,Tailwind CSS**
+- 💬 Ask me about **HTML,CSS,JS,React,Redux,ReduxToolkit,RtkQuery,Tailwind CSS,Firebase,Strapi,Kinde,Clerk**
 
 - 📫 How to reach me **fahadkhalidf90@gmail.com ,https://www.linkedin.com/in/fahad-khalid-7aba7a241**
 
