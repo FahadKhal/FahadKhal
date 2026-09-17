@@ -1,31 +1,151 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fahad Khalid</h1>
-<h3 align="center">Web Developer | Next JS|Javascript | Tailwind |Material UI | REACT |RTK Query | Fire Base |Strapi</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadkhal&label=Profile%20views&color=0e75b6&style=flat" alt="fahadkhal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadkhal" alt="fahadkhal" /></a> </p>
-
-- 🔭 I’m currently working on **FrontEnd React Development**
-
-- 🌱 I’m currently learning **Node Js**
-
-- 👯 I’m looking to collaborate on **FrontEnd React Projects**
-
-- 🤝 I’m looking for help with **TypeScript**
-
-- 💬 Ask me about **HTML,CSS,JS,React,Redux,ReduxToolkit,RtkQuery,Tailwind CSS,Firebase,Strapi,Kinde,Clerk**
-
-- 📫 How to reach me **fahadkhalidf90@gmail.com ,https://www.linkedin.com/in/fahad-khalid-7aba7a241**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- ═══════════════════════════ BANNER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a12,45:0b3d2c,100:00FF50&height=210&section=header&text=Muhammad%20Fahad%20Khalid&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Senior%20Frontend%20Engineer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descSize=17&descAlignY=57" alt="Muhammad Fahad Khalid" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- ═══════════════════════════ TYPING LINE ═══════════════════════════ -->
+<p align="center">
+  <a href="https://riggt.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF50&center=true&vCenter=true&width=620&lines=Production+fintech+dashboards;Multi-tenant+SaaS+platforms;Type-safe+React+at+scale;Founder+%40+Riggt.com;Building+with+the+Claude+API+%26+MCP" alt="What I do" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadkhal&show_icons=true&locale=en&layout=compact" alt="fahadkhal" /></p>
+<!-- ═══════════════════════════ SOCIAL ═══════════════════════════ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FahadKhal&label=PROFILE%20VIEWS&color=00FF50&style=for-the-badge" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/fahad-khalid-7aba7a241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fahadkhalidf90@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://riggt.com"><img src="https://img.shields.io/badge/riggt.com-00FF50?style=for-the-badge&logo=vercel&logoColor=black" alt="Riggt" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadkhal&show_icons=true&locale=en" alt="fahadkhal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadkhal&" alt="fahadkhal" /></p>
+## `whoami`
+
+```ts
+const fahad: Engineer = {
+  role:      "Senior Frontend Engineer",
+  based:     "Islamabad, PK  ·  remote-friendly",
+  experience: "3+ years shipping production software",
+  daily:     ["React", "Next.js", "TypeScript", "RTK Query", "Tailwind"],
+  shipping:  ["fintech dashboards", "multi-tenant SaaS", "AI-assisted tooling"],
+  building:  "Riggt.com — web, mobile & AI chatbot studio",
+  obsessions: [
+    "types that actually hold at runtime",
+    "renders that don't thrash",
+    "UI a non-technical user gets right the first time",
+  ],
+} as const;
+```
+
+I spend most of my week in TypeScript — React and Next.js on the web, and a steadily
+growing amount of Node and API plumbing behind it. The work I care about is the
+unglamorous part: state that stays predictable as a product grows, forms and payment
+flows that fail safely, and design systems a team can move fast in six months from now.
+
+---
+
+## 🛠 Tech
+
+**Core**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
+
+**Styling & Motion**
+
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+</p>
+
+**Backend & Platform**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+**Mobile & AI**
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+---
+
+## 🚢 What I'm building
+
+| | Project | What it is | Stack |
+|---|---|---|---|
+| 🏢 | **[Riggt](https://riggt.com)** | My software studio — web, mobile and AI chatbot builds for clients | Next.js · Three.js · MUI · Framer Motion |
+| 🎓 | **Enrollex** | Multi-tenant university management SaaS — admissions, announcements, staff & student portals | Next.js 14 · Express · MongoDB |
+| 📡 | **Droply** | Wireless file transfer between phone and desktop, no cable, no cloud | Expo RN · Electron · Node `ws` · Redis relay |
+| 💳 | **Fintech platforms** | Payment links, transaction dashboards and admin tooling used in production | React · TypeScript · RTK Query |
+
+---
+
+## 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Anthropic-Model_Context_Protocol-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-Agent_Skills-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-Building_with_the_Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FahadKhal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF50&icon_color=00FF50&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadKhal&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00FF50&text_color=c9d1d9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FahadKhal&hide_border=true&background=0d1117&ring=00FF50&fire=00FF50&currStreakLabel=00FF50&sideLabels=c9d1d9&dates=8b949e&stroke=00FF50" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadKhal&bg_color=0d1117&color=c9d1d9&line=00FF50&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FahadKhal&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+</p>
+
+---
+
+## 🤝 Work with me
+
+I'm open to **senior frontend / full-stack roles** and to **project work through
+[Riggt](https://riggt.com)**. If you've got a product that needs to stop feeling
+like a prototype, that's the conversation I enjoy most.
+
+<p align="center">
+  <a href="mailto:fahadkhalidf90@gmail.com"><img src="https://img.shields.io/badge/Say_hello-00FF50?style=for-the-badge&logo=minutemailer&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/fahad-khalid-7aba7a241"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF50,55:0b3d2c,100:071a12&height=120&section=footer" alt="" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF50,55:0b3d2c,100:071a12&height=120&section=footer" alt="" />
+</p>
