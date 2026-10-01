@@ -22,7 +22,7 @@ jobs:
 
       - name: Remove progress bar
         run: |
-          sed -i -E 's#</style>#.u{display:none}</style>#; s/(viewBox="-16 -32 [0-9.]+ )192"/\1176"/; s/height="192"/height="176"/' dist/snake-dark.svg
+          sudo sed -i -E 's#</style>#.u{display:none}</style>#; s/(viewBox="-16 -32 [0-9.]+ )192"/\1176"/; s/height="192"/height="176"/' dist/snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
