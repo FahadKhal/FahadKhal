@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:003d14,100:00FF50&height=220&section=header&text=Fahad%20Khalid&fontSize=66&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Lahore%20%26%20Islamabad%2C%20Pakistan&descAlignY=60&descSize=18&animation=twinkling&stroke=00FF50&strokeWidth=1" width="100%" alt="Fahad Khalid" />
+<img src="./assets/header.svg" width="100%" alt="Fahad Khalid" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00FF50&center=true&vCenter=true&width=700&lines=%3E+Full+Stack+Engineer+%C2%B7+Lahore+%26+Islamabad;%3E+React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;%3E+50%2C000%2B+monthly+transactions+on+real-time+dashboards;%3E+Multi-tenant+SaaS+with+zero+cross-tenant+leakage;%3E+Anthropic-certified%3A+Claude+API+%C2%B7+MCP" alt="Typing intro" />
@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/fahad-khalid-7aba7a241"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF50" alt="LinkedIn" /></a>
 <a href="mailto:fahadkhalidf90@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF50" alt="Email" /></a>
 <a href="https://fahadkhalid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF50" alt="Portfolio" /></a>
-<img src="https://komarev.com/ghpvc/?username=FahadKhal&style=for-the-badge&color=00C83F&label=VISITORS" alt="Profile views" />
 
 </div>
 
@@ -191,7 +190,6 @@ Healthcare site — headless CMS, appointment booking, auth, SSR + Cloudinary.
 
 <img src="https://streak-stats.demolab.com/?user=FahadKhal&hide_border=true&background=0D1117&stroke=00FF50&ring=00FF50&fire=00FF50&currStreakNum=ffffff&currStreakLabel=00FF50&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" width="70%" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadKhal&bg_color=0D1117&color=c9d1d9&line=00FF50&point=ffffff&area=true&area_color=00FF50&hide_border=true&custom_title=Commit%20activity" width="100%" alt="Activity graph" />
 
 <!-- Snake: works after you add .github/workflows/snake.yml and run it once -->
 <img src="https://raw.githubusercontent.com/FahadKhal/FahadKhal/output/snake-dark.svg" width="100%" alt="Contribution snake" />
