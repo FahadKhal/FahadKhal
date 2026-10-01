@@ -100,17 +100,6 @@ Multi-tenant loyalty SaaS — points engine, catalog, redemptions, full order li
 </td>
 <td width="50%" valign="top">
 
-### 💳 Easy Card Cash
-UK fintech — customer portal + admin dashboard, JWT/2FA, Google Maps branch locator.
-<br/><sub><code>React.js · JWT · 2FA · Google Maps API</code></sub>
-<br/>
-<a href="https://eccmoney.co.uk"><img src="https://img.shields.io/badge/eccmoney.co.uk-0D1117?style=flat-square&logo=vercel&logoColor=00FF50" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏥 Azeem Mustafa Hospital
 Healthcare site — headless CMS, appointment booking, auth, SSR + Cloudinary.
 <br/><sub><code>Next.js · Strapi · Kinde Auth · Cloudinary</code></sub>
@@ -118,7 +107,6 @@ Healthcare site — headless CMS, appointment booking, auth, SSR + Cloudinary.
 <a href="https://azeemmustafa.life"><img src="https://img.shields.io/badge/azeemmustafa.life-0D1117?style=flat-square&logo=vercel&logoColor=00FF50" /></a>
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
