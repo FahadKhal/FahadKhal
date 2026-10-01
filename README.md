@@ -24,7 +24,7 @@ fahad@lahore-islamabad:~$ cat about.yml
 ```yaml
 name:        Muhammad Fahad Khalid
 role:        Full Stack Engineer
-experience:  3+ years building production SaaS, fintech & multi-tenant platforms
+experience:  5+ years building production SaaS, fintech & multi-tenant platforms (freelance since 2020)
 current:     Software Engineer @ Anemoia-Stable (May 2023 – present, remote)
 based_in:    [Lahore, Islamabad]  # Pakistan 🇵🇰 — open to onsite in both cities
 education:   BS Computer Science — HITEC University, Taxila (2019 – 2023)
@@ -148,7 +148,7 @@ Healthcare site — headless CMS, appointment booking, auth, SSR + Cloudinary.
 <img src="https://img.shields.io/badge/JWT_·_2FA_·_RBAC-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=00FF50" />
 
 <sub><b>MOBILE</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,flutter,electron&theme=dark" />
 
 <sub><b>TESTING, DEVOPS & TOOLS</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=jest,cypress,git,github,vercel&theme=dark" />
