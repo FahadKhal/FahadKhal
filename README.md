@@ -1,151 +1,217 @@
-<!-- ═══════════════════════════ BANNER ═══════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a12,45:0b3d2c,100:00FF50&height=210&section=header&text=Muhammad%20Fahad%20Khalid&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Senior%20Frontend%20Engineer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descSize=17&descAlignY=57" alt="Muhammad Fahad Khalid" />
-</p>
+<div align="center">
 
-<!-- ═══════════════════════════ TYPING LINE ═══════════════════════════ -->
-<p align="center">
-  <a href="https://riggt.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF50&center=true&vCenter=true&width=620&lines=Production+fintech+dashboards;Multi-tenant+SaaS+platforms;Type-safe+React+at+scale;Founder+%40+Riggt.com;Building+with+the+Claude+API+%26+MCP" alt="What I do" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:003d14,100:00FF50&height=220&section=header&text=Fahad%20Khalid&fontSize=66&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Lahore%20%26%20Islamabad%2C%20Pakistan&descAlignY=60&descSize=18&animation=twinkling&stroke=00FF50&strokeWidth=1" width="100%" alt="Fahad Khalid" />
 
-<!-- ═══════════════════════════ SOCIAL ═══════════════════════════ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FahadKhal&label=PROFILE%20VIEWS&color=00FF50&style=for-the-badge" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/fahad-khalid-7aba7a241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fahadkhalidf90@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://riggt.com"><img src="https://img.shields.io/badge/riggt.com-00FF50?style=for-the-badge&logo=vercel&logoColor=black" alt="Riggt" /></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00FF50&center=true&vCenter=true&width=700&lines=%3E+Full+Stack+Engineer+%C2%B7+Lahore+%26+Islamabad;%3E+React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;%3E+50%2C000%2B+monthly+transactions+on+real-time+dashboards;%3E+Multi-tenant+SaaS+with+zero+cross-tenant+leakage;%3E+Anthropic-certified%3A+Claude+API+%C2%B7+MCP" alt="Typing intro" />
+</a>
 
----
+<br/><br/>
 
-## `whoami`
+<a href="https://www.linkedin.com/in/fahad-khalid-7aba7a241"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF50" alt="LinkedIn" /></a>
+<a href="mailto:fahadkhalidf90@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF50" alt="Email" /></a>
+<a href="https://fahadkhalid.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF50" alt="Portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=FahadKhal&style=for-the-badge&color=00C83F&label=VISITORS" alt="Profile views" />
 
-```ts
-const fahad: Engineer = {
-  role:      "Senior Frontend Engineer",
-  based:     "Islamabad, PK  ·  remote-friendly",
-  experience: "3+ years shipping production software",
-  daily:     ["React", "Next.js", "TypeScript", "RTK Query", "Tailwind"],
-  shipping:  ["fintech dashboards", "multi-tenant SaaS", "AI-assisted tooling"],
-  building:  "Riggt.com — web, mobile & AI chatbot studio",
-  obsessions: [
-    "types that actually hold at runtime",
-    "renders that don't thrash",
-    "UI a non-technical user gets right the first time",
-  ],
-} as const;
+</div>
+
+<br/>
+
+```bash
+fahad@lahore-islamabad:~$ cat about.yml
 ```
 
-I spend most of my week in TypeScript — React and Next.js on the web, and a steadily
-growing amount of Node and API plumbing behind it. The work I care about is the
-unglamorous part: state that stays predictable as a product grows, forms and payment
-flows that fail safely, and design systems a team can move fast in six months from now.
+```yaml
+name:        Muhammad Fahad Khalid
+role:        Full Stack Engineer
+experience:  3+ years building production SaaS, fintech & multi-tenant platforms
+current:     Software Engineer @ Anemoia-Stable (May 2023 – present, remote)
+based_in:    [Lahore, Islamabad]  # Pakistan 🇵🇰 — open to onsite in both cities
+education:   BS Computer Science — HITEC University, Taxila (2019 – 2023)
+frontend:    [React.js, Next.js, TypeScript, Tailwind CSS, Material UI, Ant Design, Framer Motion]
+backend:     [Node.js, Express.js, REST APIs, WebSockets, Supabase, Strapi CMS]
+databases:   [MongoDB, PostgreSQL]
+state:       [Redux Toolkit, RTK Query, Context API, Jotai]
+security:    [JWT, 2FA, RBAC, multi-tenant isolation]
+ai:          [Claude API, MCP, Agent Skills, Claude Code]
+open_to:     Full Stack / Frontend roles in Lahore & Islamabad
+```
+
+### 📈 Impact
+
+- **50,000+** monthly transactions on real-time fintech dashboards — zero downtime incidents
+- **200+** admin users secured with JWT + 2FA + RBAC across multiple subsidiaries
+- **0** cross-tenant data leaks across multi-tenant SaaS on wildcard subdomains
+- Faster feature delivery through reusable, Figma-aligned component libraries
 
 ---
 
-## 🛠 Tech
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> Shipped to production
 
-**Core**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-</p>
+### 🏦 Stable Business
+Business banking dashboard — payments, bulk payouts, transfers, pockets, bill payments, i18n.
+<br/><sub><code>Next.js · TypeScript · RTK Query · MUI</code></sub>
+<br/>
+<a href="https://business.stable-life.com"><img src="https://img.shields.io/badge/business.stable--life.com-0D1117?style=flat-square&logo=vercel&logoColor=00FF50" /></a>
 
-**Styling & Motion**
+</td>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-</p>
+### 🛠️ Stable Admin
+Fintech back-office — account management, transaction monitoring, role-based dashboards.
+<br/><sub><code>Next.js · TypeScript · Redux Toolkit · MUI</code></sub>
+<br/>
+<a href="https://admin.stable-app.com"><img src="https://img.shields.io/badge/admin.stable--app.com-0D1117?style=flat-square&logo=vercel&logoColor=00FF50" /></a>
 
-**Backend & Platform**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+### 🎓 Enrollex
+Multi-tenant university management SaaS with an Express + MongoDB REST backend.
+<br/><sub><code>Next.js 14 · Node.js · Express · MongoDB</code></sub>
+<br/>
+<a href="https://enrollex.riggt.com"><img src="https://img.shields.io/badge/enrollex.riggt.com-0D1117?style=flat-square&logo=vercel&logoColor=00FF50" /></a>
 
-**Mobile & AI**
+</td>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
+### 🚖 EiffelGo
+Paris airport transfer booking — multi-step booking, instant quotes, driver portal, EN/FR.
+<br/><sub><code>Next.js · TypeScript · Supabase · Tailwind</code></sub>
+<br/>
+<a href="https://eiffelgo.com"><img src="https://img.shields.io/badge/eiffelgo.com-0D1117?style=flat-square&logo=vercel&logoColor=00FF50" /></a>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🚢 What I'm building
+### 🎁 LLS — Live Loyalty Solutions
+Multi-tenant loyalty SaaS — points engine, catalog, redemptions, full order lifecycle.
+<br/><sub><code>Next.js · TypeScript · Redux Toolkit · Tailwind</code></sub>
+<br/>
+<a href="https://lls.solutions"><img src="https://img.shields.io/badge/lls.solutions-0D1117?style=flat-square&logo=vercel&logoColor=00FF50" /></a>
 
-| | Project | What it is | Stack |
-|---|---|---|---|
-| 🏢 | **[Riggt](https://riggt.com)** | My software studio — web, mobile and AI chatbot builds for clients | Next.js · Three.js · MUI · Framer Motion |
-| 🎓 | **Enrollex** | Multi-tenant university management SaaS — admissions, announcements, staff & student portals | Next.js 14 · Express · MongoDB |
-| 📡 | **Droply** | Wireless file transfer between phone and desktop, no cable, no cloud | Expo RN · Electron · Node `ws` · Redis relay |
-| 💳 | **Fintech platforms** | Payment links, transaction dashboards and admin tooling used in production | React · TypeScript · RTK Query |
+</td>
+<td width="50%" valign="top">
 
----
+### 💳 Easy Card Cash
+UK fintech — customer portal + admin dashboard, JWT/2FA, Google Maps branch locator.
+<br/><sub><code>React.js · JWT · 2FA · Google Maps API</code></sub>
+<br/>
+<a href="https://eccmoney.co.uk"><img src="https://img.shields.io/badge/eccmoney.co.uk-0D1117?style=flat-square&logo=vercel&logoColor=00FF50" /></a>
 
-## 📜 Certifications
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Anthropic-Model_Context_Protocol-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-Agent_Skills-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-Building_with_the_Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-</p>
+### 🏥 Azeem Mustafa Hospital
+Healthcare site — headless CMS, appointment booking, auth, SSR + Cloudinary.
+<br/><sub><code>Next.js · Strapi · Kinde Auth · Cloudinary</code></sub>
+<br/>
+<a href="https://azeemmustafa.life"><img src="https://img.shields.io/badge/azeemmustafa.life-0D1117?style=flat-square&logo=vercel&logoColor=00FF50" /></a>
 
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FahadKhal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF50&icon_color=00FF50&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadKhal&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00FF50&text_color=c9d1d9" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FahadKhal&hide_border=true&background=0d1117&ring=00FF50&fire=00FF50&currStreakLabel=00FF50&sideLabels=c9d1d9&dates=8b949e&stroke=00FF50" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadKhal&bg_color=0d1117&color=c9d1d9&line=00FF50&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahadKhal&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-</p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Work with me
+## ⚡ Toolbox
 
-I'm open to **senior frontend / full-stack roles** and to **project work through
-[Riggt](https://riggt.com)**. If you've got a product that needs to stop feeling
-like a prototype, that's the conversation I enjoy most.
+<div align="center">
 
-<p align="center">
-  <a href="mailto:fahadkhalidf90@gmail.com"><img src="https://img.shields.io/badge/Say_hello-00FF50?style=for-the-badge&logo=minutemailer&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/fahad-khalid-7aba7a241"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<sub><b>LANGUAGES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF50,55:0b3d2c,100:071a12&height=120&section=footer" alt="" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF50,55:0b3d2c,100:071a12&height=120&section=footer" alt="" />
-</p>
+<sub><b>FRONTEND</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,figma&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Ant_Design-0D1117?style=flat-square&logo=antdesign&logoColor=00FF50" />
+<img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=00FF50" />
+<img src="https://img.shields.io/badge/Jotai-0D1117?style=flat-square&logo=react&logoColor=00FF50" />
+<img src="https://img.shields.io/badge/i18next-0D1117?style=flat-square&logo=i18next&logoColor=00FF50" />
+
+<sub><b>BACKEND & DATA</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,firebase&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/WebSockets-0D1117?style=flat-square&logo=socketdotio&logoColor=00FF50" />
+<img src="https://img.shields.io/badge/Strapi-0D1117?style=flat-square&logo=strapi&logoColor=00FF50" />
+<img src="https://img.shields.io/badge/JWT_·_2FA_·_RBAC-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=00FF50" />
+
+<sub><b>MOBILE</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+
+<sub><b>TESTING, DEVOPS & TOOLS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=jest,cypress,git,github,vercel&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Cloudinary-0D1117?style=flat-square&logo=cloudinary&logoColor=00FF50" />
+<img src="https://img.shields.io/badge/Google_Analytics-0D1117?style=flat-square&logo=googleanalytics&logoColor=00FF50" />
+<img src="https://img.shields.io/badge/Lighthouse-0D1117?style=flat-square&logo=lighthouse&logoColor=00FF50" />
+
+<sub><b>AI</b></sub><br/>
+<img src="https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=anthropic&logoColor=00FF50" />
+<img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=modelcontextprotocol&logoColor=00FF50" />
+<img src="https://img.shields.io/badge/Claude_Code-0D1117?style=flat-square&logo=claude&logoColor=00FF50" />
+<img src="https://img.shields.io/badge/Agent_Skills-0D1117?style=flat-square&logo=anthropic&logoColor=00FF50" />
+<img src="https://img.shields.io/badge/Cursor-0D1117?style=flat-square&logo=cursor&logoColor=00FF50" />
+
+</div>
+
+---
+
+## 🏅 Certified by Anthropic
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Model_Context_Protocol-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Agent_Skills-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Claude_Code_in_Action-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Building_with_the_Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub pulse
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FahadKhal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF50&icon_color=00FF50&text_color=c9d1d9&rank_icon=github" height="170" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadKhal&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF50&text_color=c9d1d9&langs_count=8" height="170" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=FahadKhal&hide_border=true&background=0D1117&stroke=00FF50&ring=00FF50&fire=00FF50&currStreakNum=ffffff&currStreakLabel=00FF50&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" width="70%" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadKhal&bg_color=0D1117&color=c9d1d9&line=00FF50&point=ffffff&area=true&area_color=00FF50&hide_border=true&custom_title=Commit%20activity" width="100%" alt="Activity graph" />
+
+<!-- Snake: works after you add .github/workflows/snake.yml and run it once -->
+<img src="https://raw.githubusercontent.com/FahadKhal/FahadKhal/output/snake-dark.svg" width="100%" alt="Contribution snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `> let's ship something_`
+
+Open to <b>Full Stack / Frontend Engineer</b> roles — onsite in <b>Lahore</b> or <b>Islamabad</b>.
+
+<a href="mailto:fahadkhalidf90@gmail.com"><img src="https://img.shields.io/badge/Hire_me-00FF50?style=for-the-badge&logo=minutemailer&logoColor=0D1117" /></a>
+<a href="https://fahadkhalid.vercel.app"><img src="https://img.shields.io/badge/View_portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF50" /></a>
+<a href="https://github.com/FahadKhal?tab=repositories"><img src="https://img.shields.io/badge/See_my_repos-0D1117?style=for-the-badge&logo=github&logoColor=00FF50" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF50,100:0D1117&height=4&section=footer" width="100%" />
+
+</div>
